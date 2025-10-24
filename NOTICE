@@ -1,0 +1,96 @@
+ANPR Dashboard - Third-Party Component Notices
+
+This software includes the following third-party open-source components:
+
+================================================================================
+
+Backend Dependencies (Node.js):
+
+1. Express (MIT License)
+   Copyright (c) 2009-2014 TJ Holowaychuk <tj@vision-media.ca>
+   Copyright (c) 2013-2014 Roman Shtylman <shtylman+expressjs@gmail.com>
+   Copyright (c) 2014-2015 Douglas Christopher Wilson <doug@somethingdoug.com>
+
+2. Socket.IO (MIT License)
+   Copyright (c) 2014-2018 Automattic <dev@cloudup.com>
+
+3. PostgreSQL Client (pg) (MIT License)
+   Copyright (c) 2010-2022 Brian Carlson
+
+4. Sharp (Apache License 2.0)
+   Copyright (c) 2013-2025 Lovell Fuller
+
+5. Google Generative AI (@google/generative-ai) (Apache License 2.0)
+   Copyright (c) 2023 Google LLC
+
+6. Axios (MIT License)
+   Copyright (c) 2014-present Matt Zabriskie
+
+7. Multer (MIT License)
+   Copyright (c) 2014 Hage Yaapa
+
+8. Moment.js (MIT License)
+   Copyright (c) JS Foundation and other contributors
+
+9. Dotenv (BSD-2-Clause License)
+   Copyright (c) 2015, Scott Motte
+
+10. Helmet (MIT License)
+    Copyright (c) 2012-2023 Evan Hahn, Adam Baldwin
+
+11. CORS (MIT License)
+    Copyright (c) 2013 Troy Goode
+
+================================================================================
+
+Frontend Dependencies (React):
+
+1. React (MIT License)
+   Copyright (c) Meta Platforms, Inc. and affiliates.
+
+2. React DOM (MIT License)
+   Copyright (c) Meta Platforms, Inc. and affiliates.
+
+3. Tailwind CSS (MIT License)
+   Copyright (c) Tailwind Labs, Inc.
+
+4. Lucide React (ISC License)
+   Copyright (c) 2022 Lucide Contributors
+
+================================================================================
+
+Database:
+
+PostgreSQL (PostgreSQL License - similar to MIT/BSD)
+Copyright (c) 1996-2025, PostgreSQL Global Development Group
+
+================================================================================
+
+Runtime:
+
+Node.js (MIT License)
+Copyright Node.js contributors. All rights reserved.
+
+================================================================================
+
+NOTICE:
+
+All third-party components listed above are used under their respective
+open-source licenses. The ANPR Dashboard application itself, including all
+original code, design, and business logic, remains proprietary and is 
+protected under the Proprietary Software License.
+
+This software is built upon these excellent open-source projects, and we
+acknowledge and thank their contributors.
+
+Full license texts for these components are available at:
+- MIT License: https://opensource.org/licenses/MIT
+- Apache 2.0: https://www.apache.org/licenses/LICENSE-2.0
+- BSD License: https://opensource.org/licenses/BSD-2-Clause
+- ISC License: https://opensource.org/licenses/ISC
+
+================================================================================
+
+For questions about licensing or third-party components:
+Contact: jabird60@me.com
+
